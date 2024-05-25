@@ -1,3 +1,5 @@
+This repo contains my solutions to hackerrank problems
+
 folders are named after the category of problem  
 
 files are named after the problem they solve  
